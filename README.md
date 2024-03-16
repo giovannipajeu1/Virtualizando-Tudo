@@ -9,5 +9,5 @@
 -  <img align="left" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> **Python**: Linguagem Usada
 
  Usamos os seguintes Frameworks:
-- <img align="left" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"> **Django**: Framework Bakc-End
+- <img align="left" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"> **Django**: Framework Back-End
 - <img align="left" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> **Bootstrap**: Framework Front-End

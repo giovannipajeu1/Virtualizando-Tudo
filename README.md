@@ -2,7 +2,7 @@
 
  Usaremos as Ferramentas/Tecnologias:
 
-- <img align="left" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"> **ProxMox**: Cloud Provider
+- <img align="left" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"> **AWS**: Cloud Provider
   
 - <img align="left" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg"> **Terraform**: Criação do Ambiente
 
